@@ -8,4 +8,4 @@ Presented on December 2021
 
 | Group Number | Project Title | Team | Website 
 | ------------ | --------- | --------- | -------- | 
-| 1 | Title | Team | GitHub, Website |
+| 1 | Title... | Student1, Student2... | GitHub, Website |
